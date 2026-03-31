@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "解放区 (Album Mix)",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-03-31T09:27:44.357323Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "解放区 (Album Mix)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_解放区_(Album_Mix)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kaihouku (Album Mix) [解放区]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Kaihouku_(Album_Mix)_[解放区]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "解放区",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_解放区_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "解放区",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/04_解放区_flumpool.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "解放区",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/05_解放区_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "解放区",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/06_解放区_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "解放区 - Kaihouku",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/07_解放区_-_Kaihouku_flumpool.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "解放区",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_解放区_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
